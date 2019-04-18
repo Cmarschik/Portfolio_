@@ -68,6 +68,9 @@ footer a:active {
   background-color:yellow;
 }
 
+.intro h1{
+  font-size: 50px
+}
 
 .main {
   margin-top:50px;
