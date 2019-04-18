@@ -74,7 +74,8 @@ footer a:active {
 
 .intro{
   max-width: 70%;
-  margin: 15%;
+  margin-left: 15%;
+  margin-right: 15%; 
 }
 
 .main {
