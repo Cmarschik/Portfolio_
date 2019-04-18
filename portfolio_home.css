@@ -60,7 +60,7 @@ footer a:hover {
 }
 
 footer a:visited {
-  background-color:red
+  background-color:red;
 
 }
 
@@ -69,7 +69,11 @@ footer a:active {
 }
 
 .intro h1{
-  font-size: 45px
+  font-size: 45px;
+}
+
+.intro{
+  max-width: 500px;
 }
 
 .main {
